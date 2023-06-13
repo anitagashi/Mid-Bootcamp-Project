@@ -10,7 +10,7 @@ I decided to create this project because I was curious to know the reasons which
 
 # Code Style
 
-JS-Standard-Style
+Python-Standard-Style
 
 
 # Tools 
